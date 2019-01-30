@@ -1,6 +1,6 @@
-# vue.js
+# VueJS
 
-> A Vue.js project
+> A VueJS project
 
 ## Build Setup
 
